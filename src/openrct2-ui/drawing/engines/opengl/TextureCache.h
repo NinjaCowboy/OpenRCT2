@@ -15,6 +15,7 @@
 #include <SDL_pixels.h>
 #include <algorithm>
 #include <array>
+#include <cmath>
 #include <mutex>
 #include <openrct2/common.h>
 #include <openrct2/drawing/Drawing.h>
